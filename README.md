@@ -1,20 +1,3 @@
-- [Accident\_Aviation\_Project 2024](#accident_aviation_project-2024)
-- [Overview](#overview)
-- [Business Understanding](#business-understanding)
-  - [Key Stakeholders](#key-stakeholders)
-  - [Core Business Questions](#core-business-questions)
-- [Data Understanding and Analysis](#data-understanding-and-analysis)
-  - [Source of Data](#source-of-data)
-  - [Description of Data](#description-of-data)
-  - [Data Cleaning](#data-cleaning)
-- [Visualizations](#visualizations)
-  - [Accident Frequency Over Time](#accident-frequency-over-time)
-  - [Accidents by Aircraft Category](#accidents-by-aircraft-category)
-  - [Accidents by Aircraft Make](#accidents-by-aircraft-make)
-- [Conclusion](#conclusion)
-  - [Summary of Findings](#summary-of-findings)
-- [Contact Information:](#contact-information)
-
 # Accident_Aviation_Project 2024
 
 # Overview
